@@ -89,3 +89,4 @@ function addComment(comment) {
                 $(document).scrollTop($(document).height());
         }
 }
+
